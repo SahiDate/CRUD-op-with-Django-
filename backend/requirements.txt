@@ -1,0 +1,20 @@
+Django==5.0.1
+djangorestframework==3.15.1
+
+# Authentication & JWT
+djangorestframework-simplejwt==5.3.1
+
+# PostgreSQL Driver
+psycopg[binary]==3.3.2
+
+# CORS for React
+django-cors-headers==4.3.1
+
+# Environment Variables
+python-dotenv==1.0.1
+
+# Filters & Utilities
+django-filter==23.5
+
+# Production Server (Optional)
+gunicorn==21.2.0
